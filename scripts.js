@@ -80,9 +80,9 @@ div.addEventListener("click", (e) => {
     e.preventDefault();
     const target = e.target.parentNode;
     const pcChoice = getComputerChoice();
-    console.log("Player choose: " + target.id);
-    console.log("PC choose: " + pcChoice);
-    console.log("------------------");
+    // console.log("Player choose: " + target.id);
+    // console.log("PC choose: " + pcChoice);
+    // console.log("------------------");
     switch(target.id){
         case 'rock':
             playRound(target.id, pcChoice);
