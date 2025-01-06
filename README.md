@@ -2,6 +2,11 @@
 
 ## Project: Foundation - Rock Paper Scissors
 
+### PREVIEW
+[https://renan-rs.github.io/odin-rock-paper-scissors/](https://renan-rs.github.io/odin-rock-paper-scissors/)
+
+---
+
 ### Step 1: Setup the project structure
 1. Create a new Git repository for your project.
 2. Create a blank HTML document with a script tag.
